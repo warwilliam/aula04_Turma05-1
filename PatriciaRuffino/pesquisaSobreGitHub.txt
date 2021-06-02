@@ -1,0 +1,14 @@
+Este texto é sobre um resumo da história do GitHub.
+Essa plataforma foi lançado em 2008 e é fortemente usada por desenvolvedores
+para armazenarem seus projetos, sendo o Git o programa para realizar o controle de versão.
+O grande diferencial do GitHub para ter sido eleito entre os desenvolvedores, é a possibilidade
+de utiliza-lo como rede social, possibilitando os seus usuários de seguir projetos de outros desenvolvedores,
+além de possibiliar a inserção de comentários em tais projetos, pegar códigos e modifica-los.
+Como o GitiHub funciona na nuvem, ou seja, todos os arquivos que são inseridos nessa plataforma ficam armazenados
+em um servidor, esses arquivos podem ser compartilhados entre os membros do mesmo projeto e serem acessados de qualquer
+lugar.
+Portanto, as principais caracteristicas do Github que o qualifica como vantajoso é a possibilidade de compartilhamento de projetos,
+a possibilidade de usa-lo como portifólio, a sua integração com o Git que permite publicar e gerenciar de maneira prática os projetos. 
+O Github funciona como rede social, podendo acompanhar trabalhos de outros desenvolvedores, receber notificações, enviar mensagem diretas 
+para um perfil de sua escolha, viabilizando a troca de experiências  e de fazer novas amizades.
+Com o GitHub podemos aprender ainda mais com a troca de experiência entre os demais desenvolvedores.
