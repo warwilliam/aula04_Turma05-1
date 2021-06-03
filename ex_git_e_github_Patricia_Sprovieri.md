@@ -1,4 +1,4 @@
-# Exercício do Mochileiro
+# Exercício do Mochileiro ❤❤❤
  
 ## Git e Github
 
@@ -21,12 +21,13 @@ Segundo o comunicado oficial da Microsoft na aquisição da plataforma, ela afir
 
 
 
-**Fontes:** ❤**
+**Fontes:** ❤
  
  https://blog.taller.net.br/git-parte-1-como-durgiu-a-ferramenta-de-controle-de-versao  
  https://pt.wikipedia.org/wiki/Git
  https://www.treinaweb.com.br/blog/microsoft-compra-o-github-e-agora/
 
 
+**Produzido por Patricia Sprovieri** ❤
 
 
