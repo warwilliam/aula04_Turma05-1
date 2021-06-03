@@ -1,0 +1,14 @@
+1.	O Git foi inventado por Linus Torvalds e a equipe de desenvolvedores que mantinham o kernel Linux,
+ele surgiu da necessidade que o time tinha em encontrar uma alternativa ao BitKeeper, o sistema de versionamento
+usado previamente que deixou de ser free. A partir dessa premissa, o Git foi desenvolvido para suprir essa
+necessidade de um sistema de distribuição descentralizada de código livre assim como o Linux.
+
+2.	O Github foi adquirido pela Microsoft em 2018,
+essa aquisição faz parte dos esforços da Microsoft para reconquistar
+a comunidade de desenvolvedores Open Source, além de que ela era uma das
+empresas privadas que mais contribuía com a plataforma e possuía boa parte
+do seu código, .NET, Visual Studio, hospedados no GitHub.
+
+
+3.	Sim, o Github também possui um cliente para Desktop que utiliza
+de uma GUI para promover a interação do usuário com a plataforma.
