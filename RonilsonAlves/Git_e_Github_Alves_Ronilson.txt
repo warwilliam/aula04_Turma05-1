@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------------------------------------------
+Q.: Quem inventou o sistema de controle de versão Git e por quê?
+------------------------------------------------------------------------------------------------------------------
+R.: Linus Trovaldis. Foi usado inicialmente para o desenvolvimento do Kernel do Linux. Trovaldis buscava por algo
+que fosse rápido o suficiente para lidar com as astividades ligadas ao Linux.
+O Git permitiu que pudesse se trabalhar em um mesmo diretório, fazendo alterações no projeto, sendo possível
+rastrear quaisquer modificações que ocorram, além de identificar quem fez tais alterações. Além disso, é possível
+fazer uma espécie de rollback nas diferentes builds, por exemplo, se houve uma nova commit que gerou algum tipo de
+erro no projeto em produção, é possível voltar ao commit anterior e rodar o projeto sem erros enquanto o time
+rastreia e corrige erros.
+------------------------------------------------------------------------------------------------------------------
+Q.: Quem atualmente é o dono do Github e por quê?
+------------------------------------------------------------------------------------------------------------------
+R.: A atual proprietária do GitHub é a Microsoft, a empresa adquiriu o serviço que é utilizado para hospedar
+códigos por 28 milhões de desenvolvedores e desenvolvedoras (à época) por US$ 7,5 bilhões.
+------------------------------------------------------------------------------------------------------------------
+Q.: Existe outra maneira, além do terminal, de trabalhar com o Github?
+------------------------------------------------------------------------------------------------------------------
+R.: Sim. É possível trabalhar com o Github através da própria ferramenta GUI do gitbash, quanto com a existente no
+cliente do GitHub for Desktop. Entretanto, para quem começou a aprender agora, o ideial é que se mantenha usando o
+terminal, além de ter menos distrações e ter uma maior celeridade, você não perde nada por afiar suas habilidades
+no uso de terminais :)
+------------------------------------------------------------------------------------------------------------------
